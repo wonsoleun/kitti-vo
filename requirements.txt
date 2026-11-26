@@ -1,0 +1,14 @@
+numpy
+opencv-python
+matplotlib
+scipy
+
+# Optional: SuperPoint + LightGlue comparison
+# torch
+# lightglue @ git+https://github.com/cvg/LightGlue.git
+
+# Optional: 3D viewer (build_map.py --view)
+# open3d
+
+# Optional: trajectory evaluation tool
+# evo

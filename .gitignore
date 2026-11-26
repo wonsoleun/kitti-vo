@@ -1,0 +1,17 @@
+# KITTI dataset (too large, redistribution not allowed)
+dataset/
+
+# Large point cloud outputs (>50MB each)
+results/**/*.ply
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
