@@ -15,3 +15,10 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+# Failure-case match images (contain KITTI camera frames, ~2 MB each).
+# Only the ones used in README.md are kept.
+results/**/failures/*.png
+!results/08/sift/failures/frame_000028.png
+!results/07/superpoint/failures/frame_000639.png
+!results/05/orb/failures/frame_002622.png

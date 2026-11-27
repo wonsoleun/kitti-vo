@@ -1,0 +1,21 @@
+{
+  "sequence": "07",
+  "feature": "superpoint",
+  "start": 0,
+  "end": 1101,
+  "every": 5,
+  "voxel_m": 0.2,
+  "max_depth_m": 30.0,
+  "aligned_to_gt": true,
+  "n_points_est": 1413601,
+  "n_points_gt": 1425225,
+  "accuracy_mean_m": 1.0355330952353843,
+  "accuracy_median_m": 0.6845111651120339,
+  "completeness_mean_m": 0.9722556371424219,
+  "completeness_median_m": 0.6418203264221153,
+  "chamfer_m": 1.003894366188903,
+  "tau_m": 0.5,
+  "precision": 0.38875184723270567,
+  "recall": 0.40705221982493994,
+  "f_score": 0.39769161512881834
+}

@@ -1,0 +1,21 @@
+{
+  "sequence": "00",
+  "feature": "orb",
+  "start": 0,
+  "end": 4541,
+  "every": 5,
+  "voxel_m": 0.2,
+  "max_depth_m": 30.0,
+  "aligned_to_gt": true,
+  "n_points_est": 7014297,
+  "n_points_gt": 6788833,
+  "accuracy_mean_m": 8.379649196631052,
+  "accuracy_median_m": 3.9408959847998077,
+  "completeness_mean_m": 6.3898487946255225,
+  "completeness_median_m": 3.0117517389936346,
+  "chamfer_m": 7.3847489956282875,
+  "tau_m": 0.5,
+  "precision": 0.10246686161136319,
+  "recall": 0.12134176816545642,
+  "f_score": 0.11110840702332657
+}
